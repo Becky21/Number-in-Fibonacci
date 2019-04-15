@@ -1,6 +1,6 @@
-# Number in Fibonacci (Sequence)
+# Number in Fibonacci Sequence
 
-## This program find n in Fibonacci Sequence
+## This program finds n in Fibonacci Sequence
 
 ### Usage : 
 
@@ -8,6 +8,10 @@
     following command 
 
     > python3 fibo_search.py
+    
+#### Output:
+    if True  -> Number exists in fiboncacci sequence
+    if False -> Number does not exist in fiboncacci sequence
 
 ### Pros :
     
@@ -15,5 +19,5 @@
     * Uses less space
 
 ### Cons :
-    > You tell me..
+    You tell me..
 
