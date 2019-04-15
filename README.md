@@ -16,7 +16,7 @@
 ### Pros :
     
     * It's fast
-    * Uses less space
+    * Uses less memory
 
 ### Cons :
     You tell me..
