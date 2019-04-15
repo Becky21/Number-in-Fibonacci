@@ -4,8 +4,8 @@
 
 ### Usage : 
 
-    change value of n and simply execute the script by using the
-    following command 
+    1. Change value of n in the script
+    2. Execute the script by using the following command :
 
     > python3 fibo_search.py
     
